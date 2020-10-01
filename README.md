@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Egor</h1>
 <h3 align="center">A programmer</h3>
 
-- 🔭 I’m currently working on <!--[laboratory works by 'MAI'](https://github.com/users/Dukend/)-->
+- 🔭 I’m currently working on [laboratory works by 'MAI'](https://github.com/users/Dukend/)
 
 - 🌱 I’m currently learning **Java, C/C++, Python, Prolog**
 
