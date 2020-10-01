@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [laboratory works by 'MAI'](https://github.com/users/Dukend/)
 
-- 🌱 I’m currently learning **Java, C/C++, Python, Prolog**
+- 🌱 I’m currently learning **Java, C/C++, Python, Prolog, HTML5**
 
 - ⚡ Fun fact **___**
 
