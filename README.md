@@ -10,8 +10,8 @@
 - ⚡ Fun fact **___**
 
 <p align="left"><img 
-src="https://github.com/Dukend/devicon/tree/master/icons/java/java-plain-wordmark.svg" alt="java" width="40" height="40"/><img src="https://github.com/Dukend/devicon/tree/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/><img 
-src="https://github.com/Dukend/devicon/tree/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+src="https://devicons.github.io/devicon/devicon.git/icons/java/java-plain-wordmark.svg" alt="java" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/><img 
+src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   
 </p>
 <!--
