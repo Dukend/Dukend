@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm George</h1>
+<h2 align="center">Hi 👋, I'm George</h2>
 <h3 align="center">A programmer</h3>
 
 - 🔭 I’m currently working on [laboratory works by MAI](https://github.com/users/Dukend/)
