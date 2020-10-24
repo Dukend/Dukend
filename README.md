@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, C/C++, Python, Prolog, HTML5**
 
-- ⚡ Fun fact **___**
+<!--- ⚡ Fun fact **___** -->
 
 <p align="left"><img 
 src="https://devicons.github.io/devicon/devicon.git/icons/java/java-plain-wordmark.svg" alt="java" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/><img 
