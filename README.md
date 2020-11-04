@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [laboratory works by MAI](https://github.com/users/Dukend/)
 
-- 🌱 I’m currently learning **Java, C/C++, Python, Prolog, HTML5**
+- 🌱 Now I’m learning **Java, C/C++, Python, Prolog, HTML5**
 
 <!--- ⚡ Fun fact **___** -->
 
