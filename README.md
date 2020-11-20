@@ -21,6 +21,7 @@ src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dukend&show_icons=true" alt="Dukend" /></p>
 
 <p align="center">
+  
 <!--<a href="https://instagram.com/dmitry_vas1l1ev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dmitry_vas1l1ev" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/swimmwatch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="swimmwatch" height="30" width="30" /></a>
 </p>
