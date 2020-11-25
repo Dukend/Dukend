@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm George</h2>
 <h3 align="center">A programmer</h3>
 
-- 🔭 I’m currently working on [laboratory works by MAI](https://github.com/users/Dukend/)
+- 🔭 Now I am working on laboratory work at the Moscow Aviation Institute. <!--[laboratory works by MAI](https://github.com/users/Dukend/) -->
 
 - 🌱 Now I’m learning **Java, C/C++, Python, Prolog, HTML5**
 
