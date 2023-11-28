@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Egor</h2>
-<h3 align="center">Programmer</h3>
+<h3 align="center">Developer</h3>
 
 - 🔭 I’m currently working on course project by MAI <!--[laboratory works by MAI](https://github.com/users/Dukend/) -->
 
